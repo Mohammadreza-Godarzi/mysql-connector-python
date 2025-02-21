@@ -1,13 +1,10 @@
-try:
-    import mysql.connector
-    from rich import print as pr
-    from platform import system
-    import random
-    import os
-    import time
+import mysql.connector
+from rich import print as pr
+from platform import system
+import random
+import os
+import time
 
-except ModuleNotFoundError:
-    print('Install the Module`s that i seid first')
 
 # ============> starting xampp <=============
 
