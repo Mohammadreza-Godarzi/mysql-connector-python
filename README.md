@@ -6,7 +6,8 @@
         2)rich   
         3)platform   
         4)time   
-        # you can install them like this in terminal :pip install {Module_name}
+        # you can install them like this in terminal :   
+        pip install {Module_name}
 #
 ### then run code
 
